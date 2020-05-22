@@ -7,7 +7,7 @@ import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
 
-@Entity(tableName = "Vocabulary")
+@Entity(tableName = "vocabularies")
     public class Vocabulary{
 
 
